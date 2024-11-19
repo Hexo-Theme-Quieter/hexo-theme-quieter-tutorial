@@ -106,7 +106,7 @@ web_analytics:
 giscus:
     enable: true
     repo: Hexo-Theme-Quieter/Hexo-Theme-Quieter.github.io
-    repo_id: R_kgDONOi3cw
+    repo_id: 
     category: Announcements
     category_id: 0
     mapping: title
